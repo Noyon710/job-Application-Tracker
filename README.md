@@ -42,6 +42,6 @@ It is useful because it reduces the number of event listeners and works for dyna
 
 Ans:
 preventDefault() stops the default action of the browser.
-
+vs
 stopPropagation() stops the event from moving to parent elements.
 
